@@ -1,4 +1,4 @@
-TEST
+TEST(x,y)
 
 first
 second
